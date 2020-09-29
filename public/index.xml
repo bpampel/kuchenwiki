@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuchen</title>
+    <link>https://bpampel.github.io/kuchenwiki/</link>
+    <description>Recent content on Kuchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 28 Sep 2020 17:16:34 +0200</lastBuildDate><atom:link href="https://bpampel.github.io/kuchenwiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KUCHEN</title>
+      <link>https://bpampel.github.io/kuchenwiki/</link>
+      <pubDate>Mon, 28 Sep 2020 17:16:34 +0200</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/</guid>
+      <description>Hier gehts zu den Rezepten: Zwetschgen-Käsekuchen mit Streuseln</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+title = "Kuchen"
+baseURL = "https://bpampel.github.io/kuchenwiki"
+languageCode = "de-de"
+theme = "hugo-PaperMod"
+canonifyURLs = true

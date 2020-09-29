@@ -1,20 +1,22 @@
-= Zwetschgen-Käsekuchen mit Streuseln =
+---
+title: "Zwetschgen-Käsekuchen mit Streuseln"
+date: 2020-09-18T16:25:03+02:00
+draft: false
+tags: ["zwetschgen", "käsekuchen", "streusel"]
+---
 
-{{file:../images/Zwetschgen-Käsekuchen mit Streuseln/05-Fertig.jpg|Fertig|style="width:800px;"}}
+
+
+![Fertig](/Zwetschgen-Käsekuchen-mit-Streuseln/05-Fertig.jpg)
 
 Eine Kombination dieser beiden Rezepte:
-1. [[https://www.aldi-sued.de/de/r.zwetschgen-kaesekuchen-mit-streuseln.Article_RZ49464780000000.html|Zwetschgen-Käsekuchen mit Streuseln (Aldi)]]
-2. [[https://www.kochbar.de/rezept/477305/Zwetschgen-Kaese-Kuchen-mit-Streuseln.html|Zwetschgen-Käse-Kuchen mit Streuseln (kochbar.de)]]
+1. [Zwetschgen-Käsekuchen mit Streuseln (Aldi)](https://www.aldi-sued.de/de/r.zwetschgen-kaesekuchen-mit-streuseln.Article_RZ49464780000000.html)
+2. [Zwetschgen-Käse-Kuchen mit Streuseln (kochbar.de)](https://www.kochbar.de/rezept/477305/Zwetschgen-Kaese-Kuchen-mit-Streuseln.html)
 
 Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 
-{{file:../images/Zwetschgen-Käsekuchen mit Streuseln/01-Mürbeteig.jpg|Mürbeteig|style="width:800px;"}}
-{{file:../images/Zwetschgen-Käsekuchen mit Streuseln/02-Zwetschgen.jpg|Zwetschgen|style="width:800px;"}}
-{{file:../images/Zwetschgen-Käsekuchen mit Streuseln/03-Käsemasse.jpg|Käsemasse|style="width:800px;"}}
-{{file:../images/Zwetschgen-Käsekuchen mit Streuseln/04-Streusel.jpg|Streusel|style="width:800px;"}}
-
-=== Zutaten ===
-==== Total ==== 
+## Zutaten
+### Total
 
 | Menge             | Zutat                                              |
 |-------------------|----------------------------------------------------|
@@ -31,7 +33,7 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 | 2 Prisen          | Salz                                               |
 | nach belieben     | Zimt                                               |
 
-==== Mürbteig ====
+### Mürbteig
 
 | Menge      | Zutat               |
 |------------|---------------------|
@@ -42,21 +44,21 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 | 1          | Ei                  |
 | 1 Prise    | Salz                |
 
-==== Belag ====
+### Belag
 500 g (oder mehr) Zwetschgen
 
-==== Käsemasse ====
+### Käsemasse
 
-| Menge      | Zutat                                              |
-|------------|----------------------------------------------------|
-| 500 g      | Magerquark                                         |
-| 150 g      | Zucker                                             |
-| 1 Päckchen | Vanillezucker                                      |
-| 1/2        | Zitrone (alternativ Zitronenabrieb und Saft/Säure) |
-| 3          | Eier                                               |
-| 1 Päckchen | Vanillepuddingpulver                               |
+| Menge      | Zutat                                                |
+|------------|------------------------------------------------------|
+| 500 g      | Magerquark                                           |
+| 150 g      | Zucker                                               |
+| 1 Päckchen | Vanillezucker                                        |
+| 1/2        | Zitrone (alternativ Zitronenabrieb und -saft/-säure) |
+| 3          | Eier                                                 |
+| 1 Päckchen | Vanillepuddingpulver                                 |
 
-==== Streusel ====
+### Streusel
 
 | Menge          | Zutat      |
 |----------------|------------|
@@ -67,7 +69,7 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 | nach belieben  | Zimt       |
 
 
-=== Zubereitung ===
+## Zubereitung
 
 1. Mürbteig:
    1. Mehl und Backpulver vermischen, Butter hacken und in Stückchen dazu geben
@@ -87,3 +89,8 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 10. Währenddessen Streusel herstellen
 11. Nach 10 Minuten Backzeit die Streusel auf den Kuchen geben
 12. Für weitere ca. 50 Minuten backen.
+
+![Mürbteig](/Zwetschgen-Käsekuchen-mit-Streuseln/01-Mürbeteig.jpg)
+![Zwetschgen](/Zwetschgen-Käsekuchen-mit-Streuseln/02-Zwetschgen.jpg)
+![Käsemasse](/Zwetschgen-Käsekuchen-mit-Streuseln/03-Käsemasse.jpg)
+![Streusel](/Zwetschgen-Käsekuchen-mit-Streuseln/04-Streusel.jpg)
