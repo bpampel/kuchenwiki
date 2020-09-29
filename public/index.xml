@@ -1,20 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kuchen</title>
-    <link>https://bpampel.github.io/kuchenwiki/</link>
-    <description>Recent content on Kuchen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
-    <lastBuildDate>Mon, 28 Sep 2020 17:16:34 +0200</lastBuildDate><atom:link href="https://bpampel.github.io/kuchenwiki/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KUCHEN</title>
-      <link>https://bpampel.github.io/kuchenwiki/</link>
-      <pubDate>Mon, 28 Sep 2020 17:16:34 +0200</pubDate>
-      
-      <guid>https://bpampel.github.io/kuchenwiki/</guid>
-      <description>Hier gehts zu den Rezepten: Zwetschgen-Käsekuchen mit Streuseln</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kuchen</title><link>https://bpampel.github.io/kuchenwiki/</link><description>Recent content on Kuchen</description><generator>Hugo -- gohugo.io</generator><language>de-de</language><lastBuildDate>Tue, 29 Sep 2020 16:06:07 +0200</lastBuildDate><atom:link href="https://bpampel.github.io/kuchenwiki/index.xml" rel="self" type="application/rss+xml"/><item><title>Zwetschgen-Käsekuchen mit Streuseln</title><link>https://bpampel.github.io/kuchenwiki/rezepte/zwetschgen-kaesekuchen-mit-streuseln.html</link><pubDate>Fri, 18 Sep 2020 16:25:03 +0200</pubDate><guid>https://bpampel.github.io/kuchenwiki/rezepte/zwetschgen-kaesekuchen-mit-streuseln.html</guid><description>Eine Kombination dieser beiden Rezepte:
+Zwetschgen-Käsekuchen mit Streuseln (Aldi) Zwetschgen-Käse-Kuchen mit Streuseln (kochbar.de) Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
+Zutaten Total Menge Zutat 300 g Weizenmehl Type 405 1 Päckchen Backpulver 167 g Butter 320 g Zucker 4 Eier 500 g (oder mehr) Zwetschgen 500 g Magerquark 1 Päckchen Vanillezucker 1/2 Zitrone (alternativ Zitronenabrieb und Saft/Säure) 1 Päckchen Vanillepuddingpulver 2 Prisen Salz nach belieben Zimt Mürbteig Menge Zutat 200 g Weizenmehl Type 405 1 Päckchen Backpulver 100 g Butter 70 g Zucker 1 Ei 1 Prise Salz Belag 500 g (oder mehr) Zwetschgen</description></item><item><title>About</title><link>https://bpampel.github.io/kuchenwiki/about.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://bpampel.github.io/kuchenwiki/about.html</guid><description>Hier gibt es Kuchen.
+Oder vielmehr Rezepte für Kuchen.
+Ohne Gewähr, nur als persönliches Nachschlagewerk.
+Favicon von , Bärli von Mark Basarab.
+Kontakt Benjamin Pampel
+E-Mail</description></item></channel></rss>
