@@ -12,3 +12,4 @@ params:
   description: "Eine Sammlung von Kuchenrezepten"
   avatar: "baerli.jpg"
   avatarDescription: "Kuchen-Verspeiser"
+  favicon: "cake.ico"
