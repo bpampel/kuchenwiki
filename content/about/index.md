@@ -10,7 +10,7 @@ Oder vielmehr Rezepte für Kuchen.
 
 Ohne Gewähr, nur als persönliches Nachschlagewerk.
 
-Favicon von [](freepik.com), Bärli von [Mark Basarab](https://unsplash.com/@ignitedit).
+Favicon von [freepik.com](freepik.com), Bärli von [Mark Basarab](https://unsplash.com/@ignitedit).
 
 
 ### Kontakt
