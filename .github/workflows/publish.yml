@@ -3,7 +3,7 @@ name: 🚀 Publish Github Pages
 on:
   push:
     branches:
-      - gh-pages
+      - publish
 jobs:
   deploy:
     runs-on: ubuntu-latest
