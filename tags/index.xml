@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kuchenwki</title>
+    <link>https://bpampel.github.io/kuchenwiki/tags.html</link>
+    <description>Recent content in Tags on Kuchenwki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bpampel.github.io/kuchenwiki/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>banane</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/banane.html</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/banane.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mikrowelle</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/mikrowelle.html</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/mikrowelle.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schnell</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/schnell.html</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/schnell.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schoko</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/schoko.html</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/schoko.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>käsekuchen</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/k%C3%A4sekuchen.html</link>
+      <pubDate>Fri, 18 Sep 2020 16:25:03 +0200</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/k%C3%A4sekuchen.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streusel</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/streusel.html</link>
+      <pubDate>Fri, 18 Sep 2020 16:25:03 +0200</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/streusel.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zwetschgen</title>
+      <link>https://bpampel.github.io/kuchenwiki/tags/zwetschgen.html</link>
+      <pubDate>Fri, 18 Sep 2020 16:25:03 +0200</pubDate>
+      
+      <guid>https://bpampel.github.io/kuchenwiki/tags/zwetschgen.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
