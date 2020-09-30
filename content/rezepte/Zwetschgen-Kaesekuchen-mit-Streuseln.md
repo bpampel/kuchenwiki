@@ -72,16 +72,16 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 ## Zubereitung
 
 1. Mürbteig:
-   1. Mehl und Backpulver vermischen, Butter hacken und in Stückchen dazu geben
-   2. Restliche Zutaten hinzu und rasch zu Teig verkneten
-   3. Mindestens eine halbe Stunde in den Kühlschrank stellen
+    1. Mehl und Backpulver vermischen, Butter hacken und in Stückchen dazu geben
+    2. Restliche Zutaten hinzu und rasch zu Teig verkneten
+    3. Mindestens eine halbe Stunde in den Kühlschrank stellen
 2. Derweil Zwetschgen waschen, halbieren und Kern entfernen
 3. Käsemasse herstellen:
-  1. Quark, Zucker, Vanillezucker, Zitronensaft und -schale in Schüssel verrühren
-  2. Eier einzeln unterrühren
-  3. Vanillepuddingpulver gut unterrühren
-5. Ofen auf 175°C Ober-/Unterhitze bzw. 155°C Umluft vorheizen
-4. Springform einfetten
+    1. Quark, Zucker, Vanillezucker, Zitronensaft und -schale in Schüssel verrühren
+    2. Eier einzeln unterrühren
+    3. Vanillepuddingpulver gut unterrühren
+4. Ofen auf 175°C Ober-/Unterhitze bzw. 155°C Umluft vorheizen
+5. Springform einfetten
 6. Mürbteig ausrollen und in Springform geben, mehrfach mit Gabel einsteichen
 7. Mit Zwetschgen belegen
 8. Käsemasse darüber geben
