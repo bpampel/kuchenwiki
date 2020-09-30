@@ -25,5 +25,6 @@ Mikrowellen-Tassenkuchen ohne Eier.
 2. Alle trockenen Zutaten dazugeben und verrühren
    - Zucker evtl. etwas weniger, je nach Reife der Banane
 3. Milch dazu, und rühren bis klebrige Masse entsteht
-4. In die Mikrowelle für ca. 2-3 Minuten (abhängig von Modell und gewünschter Konsistenz)
-5. Auf Teller stürzen -> fertig
+4. (optional noch Schokolade unterrühren)
+5. In die Mikrowelle für ca. 2-3 Minuten (abhängig von Modell und gewünschter Konsistenz)
+6. Auf Teller stürzen -> fertig
