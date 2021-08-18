@@ -2,7 +2,7 @@
 title: Kokos-Rührkuchen
 date: 2021-08-18
 draft: true
-tags: ["kokos", "rührteig", "schoko", "blech", "springform]
+tags: ["kokos", "rührteig", "schoko", "blech", "springform"]
 ---
 
 Zwei-Schichten Rührkuchen mit Kokoscreme in der Mitte
