@@ -1,7 +1,7 @@
 ---
 title: Kokos-Rührkuchen
 date: 2021-08-18
-draft: true
+draft: false
 tags: ["kokos", "rührteig", "schoko", "blech", "springform"]
 ---
 
