@@ -62,7 +62,7 @@ Für ein ganzes Blech die Menge mal 3/2, für eine 24er Springform mal 3/4
 
 
 ![Eier und Zucker cremig gerührt, dann Mehl und Backpulver dazu](/Kokos-Rührkuchen/01-Eier-Zucker.jpg)
-![hälfte des Teiges mit Kakao -> in Form](/Kokos-Rührkuchen/02-dunkler-Rührteig)
+![hälfte des Teiges mit Kakao -> in Form](/Kokos-Rührkuchen/02-dunkler-Rührteig.jpg)
 ![Zutaten für Creme in Topf und kochen](/Kokos-Rührkuchen/03-Creme-kochen.jpg)
 ![Creme auf gebackenen dunklen Teig, dann restlichen (hellen) Teig](/Kokos-Rührkuchen/04-Creme-auf-Teig.jpg)
 ![Fertig gebacken](/Kokos-Rührkuchen/05-fertig-gebacken.jpg)
