@@ -5,7 +5,7 @@ draft: true
 tags: ["kokos", "rührteig", "schoko", "blech", "springform"]
 ---
 
-Zwei-Schichten Rührkuchen mit Kokoscreme in der Mitte
+Schwarz-weißer Rührkuchen mit Kokoscreme in der Mitte
 
 Zutaten und Rezept grob nach [diesem Rezept von chefkoch.de](https://www.chefkoch.de/rezepte/2421681382131890/Saftiger-Kokoskuchen-vom-Blech.html)
 ![Geht als Blechkuchen oder in Springform](/Kokos-Rührkuchen/08-kleines_blech)
