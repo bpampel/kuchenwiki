@@ -14,8 +14,6 @@ Funktioniert von den Mengen gut als "Grundteig" für Tassenkuchen
 Grundrezept für Icebox Cookies (hier mit Orangat und Schokoraspeln)
 - https://www.simply-yummy.de/backen/rhabarberkuchen-mit-pudding
 leckerer Rhabarberkuchen mit Pudding
-- https://www.chefkoch.de/rezepte/2421681382131890/Saftiger-Kokoskuchen-vom-Blech.html
-Schwarz-weiß Rührkuchen mit kokoscreme in der Mitte. 2/3 der Menge für 28er Springform. Rafaello als Deko macht sich gut
 - https://www.einfachbacken.de/rezepte/karottenmuffins-glutenfrei
 Grundrezept für einfache glutenfreie Karottenmuffins
 - https://linalsbackhimmel.de/zwetschgen-joghurt-muffins/
