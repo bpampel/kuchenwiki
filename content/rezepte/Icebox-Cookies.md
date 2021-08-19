@@ -12,6 +12,8 @@ Statt Schoko und Orange können auch leicht andere Geschmackszutaten genutzt wer
 
 Ungefähre Übersetzung von [Icebox-Cookies](https://www.acommunaltable.com/chocolate-and-orange-icebox-cookies/#wprm-recipe-container-14056).
 
+![Fertige Kekse](/Icebox-Cookies/7-Fertig.jpg)
+
 ## Zutaten
 
 | Menge                               | Zutat                    |
@@ -35,5 +37,13 @@ Ungefähre Übersetzung von [Icebox-Cookies](https://www.acommunaltable.com/choc
 5. Rollen mindestens eine halbe Stunde in den Kühlschrank stellen (evtl. eingewickelt)
 6. Ofen auf 180°C vorheizen
 7. Rollen in dünne Scheiben (0,5 - 1 cm) schneiden
-8. Stücke mit ausreichend Abstand auf Backblech legen (Kekse verlaufen etwas beim Backen!)
+8. Scheiben mit ausreichend Abstand auf Backblech legen (Kekse verlaufen etwas beim Backen!)
 9. 12 Minuten backen
+
+![Orangeat hacken](/Icebox-Cookies/1-Orangeat.jpg)
+![Orangeat zum Teig geben](/Icebox-Cookies/2-Teig-mit-Orangeat.jpg)
+![Fertiger Teig](/Icebox-Cookies/3-Fertiger-Teig.jpg)
+![Teig in Rollen geformt](/Icebox-Cookies/4-Rollen.jpg)
+![Nach dem Kühlen werden die Rollen in Scheiben geschnitten](/Icebox-Cookies/5-Rollen-geschnitten.jpg)
+![Scheiben auf Backblech verteilt](/Icebox-Cookies/6-Auf-Blech.jpg)
+![Fertige Kekse in Dose](/Icebox-Cookies/8-In-Dose.jpg)
