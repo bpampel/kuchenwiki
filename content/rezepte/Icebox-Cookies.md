@@ -32,7 +32,7 @@ Ungefähre Übersetzung von [Icebox-Cookies](https://www.acommunaltable.com/choc
 
 1. Butter und Zucker cremig schlagen, Ei und Vanille unterrühren
 2. Mehl, Backpulver und Salz mischen und unterrühren
-3. Schokotropfen und klein gehacktes Oranegat dazugeben und vermischen
+3. Schokotropfen und kleingehacktes Oranegat dazugeben und vermischen
 4. Stücke des Teiges auf einer bemehlten Unterlage in ca. 3 cm dicke Rollen formen
 5. Rollen mindestens eine halbe Stunde in den Kühlschrank stellen (evtl. eingewickelt)
 6. Ofen auf 180°C vorheizen
