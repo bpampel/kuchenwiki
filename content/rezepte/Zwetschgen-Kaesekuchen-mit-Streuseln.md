@@ -7,7 +7,7 @@ tags: ["zwetschgen", "käsekuchen", "streusel"]
 
 
 
-![Fertig](/Zwetschgen-Käsekuchen-mit-Streuseln/05-Fertig.jpg)
+![Fertig](/img/Zwetschgen-Käsekuchen-mit-Streuseln/05-Fertig.jpg)
 
 Eine Kombination dieser beiden Rezepte:
 1. [Zwetschgen-Käsekuchen mit Streuseln (Aldi)](https://www.aldi-sued.de/de/r.zwetschgen-kaesekuchen-mit-streuseln.Article_RZ49464780000000.html)
@@ -90,7 +90,7 @@ Kurzfassung: ersetze die Käsemasse des ersten Rezepts durch die des zweiten
 11. Nach 10 Minuten Backzeit die Streusel auf den Kuchen geben
 12. Für weitere ca. 50 Minuten backen.
 
-![Mürbteig](/Zwetschgen-Käsekuchen-mit-Streuseln/01-Mürbeteig.jpg)
-![Zwetschgen](/Zwetschgen-Käsekuchen-mit-Streuseln/02-Zwetschgen.jpg)
-![Käsemasse](/Zwetschgen-Käsekuchen-mit-Streuseln/03-Käsemasse.jpg)
-![Streusel](/Zwetschgen-Käsekuchen-mit-Streuseln/04-Streusel.jpg)
+![Mürbteig](/img/Zwetschgen-Käsekuchen-mit-Streuseln/01-Mürbeteig.jpg)
+![Zwetschgen](/img/Zwetschgen-Käsekuchen-mit-Streuseln/02-Zwetschgen.jpg)
+![Käsemasse](/img/Zwetschgen-Käsekuchen-mit-Streuseln/03-Käsemasse.jpg)
+![Streusel](/img/Zwetschgen-Käsekuchen-mit-Streuseln/04-Streusel.jpg)

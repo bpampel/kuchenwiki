@@ -8,7 +8,7 @@ tags: ["kokos", "rührteig", "schoko", "blech", "springform"]
 Schwarz-weißer Rührkuchen mit Kokoscreme in der Mitte
 
 Zutaten und Rezept grob nach [diesem Rezept von chefkoch.de](https://www.chefkoch.de/rezepte/2421681382131890/Saftiger-Kokoskuchen-vom-Blech.html)
-![Geht als Blechkuchen oder in Springform](/Kokos-Rührkuchen/08-kleines_blech.jpg)
+![Geht als Blechkuchen oder in Springform](/img/Kokos-Rührkuchen/08-kleines_blech.jpg)
 
 ## Zutaten
 
@@ -61,10 +61,10 @@ Für ein ganzes Blech die Menge mal 3/2, für eine 24er Springform mal 3/4
 
 
 
-![Eier und Zucker cremig gerührt, dann Mehl und Backpulver dazu](/Kokos-Rührkuchen/01-Eier-Zucker.jpg)
-![hälfte des Teiges mit Kakao -> in Form](/Kokos-Rührkuchen/02-dunkler-Rührteig.jpg)
-![Zutaten für Creme in Topf und kochen](/Kokos-Rührkuchen/03-Creme-kochen.jpg)
-![Creme auf gebackenen dunklen Teig, dann restlichen (hellen) Teig](/Kokos-Rührkuchen/04-Creme-auf-Teig.jpg)
-![Fertig gebacken](/Kokos-Rührkuchen/05-fertig-gebacken.jpg)
-![Glasur und Deko](/Kokos-Rührkuchen/06-Glasur.jpg)
-![Fertig](/Kokos-Rührkuchen/07-fertig.jpg)
+![Eier und Zucker cremig gerührt, dann Mehl und Backpulver dazu](/img/Kokos-Rührkuchen/01-Eier-Zucker.jpg)
+![hälfte des Teiges mit Kakao -> in Form](/img/Kokos-Rührkuchen/02-dunkler-Rührteig.jpg)
+![Zutaten für Creme in Topf und kochen](/img/Kokos-Rührkuchen/03-Creme-kochen.jpg)
+![Creme auf gebackenen dunklen Teig, dann restlichen (hellen) Teig](/img/Kokos-Rührkuchen/04-Creme-auf-Teig.jpg)
+![Fertig gebacken](/img/Kokos-Rührkuchen/05-fertig-gebacken.jpg)
+![Glasur und Deko](/img/Kokos-Rührkuchen/06-Glasur.jpg)
+![Fertig](/img/Kokos-Rührkuchen/07-fertig.jpg)

@@ -12,7 +12,7 @@ Statt Schoko und Orange können auch leicht andere Geschmackszutaten genutzt wer
 
 Ungefähre Übersetzung von [Icebox-Cookies](https://www.acommunaltable.com/chocolate-and-orange-icebox-cookies/#wprm-recipe-container-14056).
 
-![Fertige Kekse](/Icebox-Cookies/7-Fertig.jpg)
+![Fertige Kekse](/img/Icebox-Cookies/7-Fertig.jpg)
 
 ## Zutaten
 
@@ -40,10 +40,10 @@ Ungefähre Übersetzung von [Icebox-Cookies](https://www.acommunaltable.com/choc
 8. Scheiben mit ausreichend Abstand auf Backblech legen (Kekse verlaufen etwas beim Backen!)
 9. 12 Minuten backen
 
-![Orangeat hacken](/Icebox-Cookies/1-Orangeat.jpg)
-![Orangeat zum Teig geben](/Icebox-Cookies/2-Teig-mit-Orangeat.jpg)
-![Fertiger Teig](/Icebox-Cookies/3-Fertiger-Teig.jpg)
-![Teig in Rollen geformt](/Icebox-Cookies/4-Rollen.jpg)
-![Nach dem Kühlen werden die Rollen in Scheiben geschnitten](/Icebox-Cookies/5-Rollen-geschnitten.jpg)
-![Scheiben auf Backblech verteilt](/Icebox-Cookies/6-Auf-Blech.jpg)
-![Fertige Kekse in Dose](/Icebox-Cookies/8-In-Dose.jpg)
+![Orangeat hacken](/img/Icebox-Cookies/1-Orangeat.jpg)
+![Orangeat zum Teig geben](/img/Icebox-Cookies/2-Teig-mit-Orangeat.jpg)
+![Fertiger Teig](/img/Icebox-Cookies/3-Fertiger-Teig.jpg)
+![Teig in Rollen geformt](/img/Icebox-Cookies/4-Rollen.jpg)
+![Nach dem Kühlen werden die Rollen in Scheiben geschnitten](/img/Icebox-Cookies/5-Rollen-geschnitten.jpg)
+![Scheiben auf Backblech verteilt](/img/Icebox-Cookies/6-Auf-Blech.jpg)
+![Fertige Kekse in Dose](/img/Icebox-Cookies/8-In-Dose.jpg)
