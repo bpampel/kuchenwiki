@@ -16,7 +16,7 @@ Zutaten und Rezept grob nach [diesem Rezept von chefkoch.de](https://www.chefkoc
 
 | Menge      | Zutat       |
 |------------|-------------|
-| 4          | Ei(er)      |
+| 4          | Ei          |
 | 200 g      | Zucker      |
 | 250 g      | Mehl        |
 | 1 Päckchen | Backpulver  |
