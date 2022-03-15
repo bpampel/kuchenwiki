@@ -1,5 +1,5 @@
 title: "Kuchenwiki"
-baseURL: "https://bpampel.github.io/kuchenwiki"
+baseURL: "https://bpampel.de/kuchenwiki"
 languageCode: "de-de"
 theme: "pulp"
 canonifyURLs: true
