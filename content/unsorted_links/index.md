@@ -24,3 +24,5 @@ top rezept, vegane Zitronentarte
 Klassiker, Link falls mal das Buch nicht da ist
 - https://www.lecker.de/punsch-schnecken-37724.html
 Plätzchen/Schnecken für Weihnachten
+- https://www.chefkoch.de/rezepte/1762891286167254/Eierlikoerkuchen-mit-Schokoflocken.html
+Eierlikörkuchen (Laura für WW)
